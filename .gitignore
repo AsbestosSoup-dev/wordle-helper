@@ -1,0 +1,57 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.Python
+pyvenv.cfg
+pip-selfcheck.json
+.env
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+share/python-wheels/
+*.egg
+.installed.cfg
+MANIFEST
+
+# Logs and installer artifacts
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test/coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+.hypothesis/
+
+# Temporary or backup files
+*.bak
+*.tmp
+
+# Type-checking and analysis tools
+.mypy_cache/
+.pytype/
+.pyre/
+cython_debug/
+
+# Editor and IDE files
+.idea/
+*.iml
+.vscode/
+wordle-helper.iml
