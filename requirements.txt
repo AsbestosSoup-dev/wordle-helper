@@ -1,0 +1,3 @@
+# Runtime dependencies for Wordle Helper CLI
+# (None currently required; the project uses only the Python standard library.)
+# Keep this file for future additions.
